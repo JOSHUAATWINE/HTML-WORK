@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+    <title>Links, Lists, Tables</title>
+</head>
+<body>
+    <H1>Links In Html</H1>
+    <p>I study from the coding website and learning platform codingal. If you want to join here is the link<a href="https://www.codingal.com/">codingal</a></p>
+    <H2>Lists In Html</H2>
+    <ol>
+        <li>Food</li>
+        <li>Clothes</li>
+        <li>Stationary</li>
+    </ol>
+    <h3>Unorderd List</h3>
+    <ul>
+        <li>Car</li>
+        <li>House</li>
+        <li>Love</li>
+    </ul>
+</body>
+</html>
+    
+
