@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Famous Monuments</title>
+    </head>
+    <body>
+        <h1>Famous Monuments</h1>
+        <p>Wanna learn a thing or two about the famous some of the most famous emblems of the world well here we go. </p>
+        <h2>Most known</h2>
+        <ul>
+            <li>Christ the Redeemer</li>
+            <li>The Eiffel Tower</li>
+            <li> The Statue of Liberty</li>
+        </ul>
+        <h2>Least known </h2>
+        <ul>
+            <li>Bada Gagh</li>
+            <li>Partha Village</li>
+            <li>Jamali Kamali</li>
+        </ul>
